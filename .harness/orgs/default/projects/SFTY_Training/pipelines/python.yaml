@@ -40,6 +40,6 @@ pipeline:
                     connectorRef: "y"
                     host: us-south1-docker.pkg.dev/
                     projectID: padma-489806/
-                    imageName: us-south1-docker.pkg.dev/padma-489806/buildrepo
+                    imageName: us-south1-docker.pkg.dev/padma-489806/buildrepo/padma
                     tags:
                       - v2
