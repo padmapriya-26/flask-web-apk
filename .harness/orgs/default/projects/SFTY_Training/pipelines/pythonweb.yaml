@@ -51,7 +51,7 @@ pipeline:
         spec:
           deploymentType: Kubernetes
           service:
-            serviceRef: priya
+            serviceRef: pythonser
             serviceInputs:
               serviceDefinition:
                 type: Kubernetes
